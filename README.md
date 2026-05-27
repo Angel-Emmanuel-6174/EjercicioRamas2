@@ -1,3 +1,8 @@
 # EjercicioRamas2
 
+ 
+CAMBIOS EN RAMA 1.
+
 CAMBIOS EN MAIN 1
+
+CAMBIOS EN LA RAMA 2.
